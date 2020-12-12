@@ -1,0 +1,91 @@
+.one {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5%;
+  width: 450px;
+}
+.col-sm{
+	padding:7%;
+}
+p{
+	padding-left: 10%;
+	padding-right: 10%;
+	
+}
+h2{
+	padding-left:10%;
+}
+#hero{
+	text-align: center;
+	background-image: url('https://s2.reutersmedia.net/resources/r/?m=02&d=20141202&t=2&i=996239808&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXNPEAB10HB');
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	padding: 10%;
+}
+#hero h1{
+	color: white;
+}
+#hero h3{
+	color: white;
+}
+form{
+	padding-right:10%;
+	padding-left:10%;
+	padding-bottom:10%;
+	padding-top:3%;
+}
+#hero1{
+	background-image: url('https://currentaffairs.adda247.com/wp-content/uploads/2019/12/04120029/ef.jpg');
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	padding: 10%;
+}
+.one1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5%;
+  width: 450px;
+  height:400px;
+}
+#hero2{
+	background-image: url('journey.jpg');
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	padding: 10%;
+}
+#hero4{
+	background-image: url('https://live.staticflickr.com/1836/42968939102_ffaa7eea06_b.jpg');
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	padding: 10%;
+}
+footer{
+	background-color: lightgrey;
+	width:100%;
+	bottom: 0;
+   height: auto;
+}
+#hero3{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('https://si.wsj.net/public/resources/images/BN-FU917_1201bh_H_20141201211520.jpg');
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	padding: 10%;
+    background-attachment: fixed;
+}
+#hero3 h1{
+	color:white;
+	text-align:center;
+}
